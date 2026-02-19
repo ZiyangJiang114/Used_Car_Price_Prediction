@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project analyzes a large-scale used vehicle dataset originally sourced from Kaggle, which contains information from over 3 million listings. The attached dataset only contains 426880 vehicles to ensure efficient computation and model development. The analysis follows the CRISP-DM framework to systematically understand the key factors that influence used car pricing. Through data cleaning, feature engineering, and regression modeling, the project investigates how vehicle characteristics impact market value. The final model provides quantitative insights into predictive features and summarizes which attributes consumers value most when purchasing a used vehicle.
+This project analyzes a large-scale used vehicle dataset originally sourced from Kaggle, which contains information from over 3 million listings. The applied dataset only contains 426880 vehicles to ensure efficient computation and model development. The analysis follows the CRISP-DM framework to systematically understand the key factors that influence used car pricing. Through data cleaning, feature engineering, and regression modeling, the project investigates how vehicle characteristics impact market value. The final model provides quantitative insights into predictive features and summarizes which attributes consumers value most when purchasing a used vehicle.
 
 ## Initial Data Understanding & Cleaning
 
